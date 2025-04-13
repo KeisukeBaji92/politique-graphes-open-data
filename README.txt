@@ -15,9 +15,11 @@ Ce projet a été conçu en deux parties :
 CONTENU DU DOSSIER :
 ---------------------
 - quiz_lois.py              -> Script principal du quiz Streamlit
+- mega_scraper.py           -> Script utilisé pour scraper le fichier de données
 - votes_scrutins_final.csv -> Fichier de données (votes des députés)
 - requirements.txt          -> Dépendances Python nécessaires
 - README.txt                -> Ce fichier
+- Rapport du projet         -> Rapport complet du projet "Graphes et Open Data" 
 
 COMMENT UTILISER LE QUIZ :
 ---------------------------
