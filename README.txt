@@ -43,3 +43,5 @@ TECHNOS UTILISÉES :
 AUTEURS :
 ----------
 Projet réalisé par deux étudiants de L3 MIAGE de l'Université de Nanterre – Avril 2025
+Mickaël ANDRIEU - L3 MIAGE 36000936
+Issa HADI - L3 MIAGE 42007917
